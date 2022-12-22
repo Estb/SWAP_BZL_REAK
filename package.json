@@ -17,7 +17,7 @@
     "coinpayments-ipn": "^1.0.0",
     "express": "^4.16.4",
     "http-status": "^1.3.1",
-    "jsonwebtoken": "^8.5.0",
+    "jsonwebtoken": "^9.0.0",
     "method-override": "^3.0.0",
     "mysql2": "^1.6.4",
     "nodemailer": "^6.3.0",
